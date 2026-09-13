@@ -1,17 +1,5 @@
 # AI Assistant Conversation Analytics — End-to-End Data Engineering Pipeline
 
----
-
-### 🎓 Academic Project Information
-| Attribute | Details |
-| :--- | :--- |
-| **Course / Degree** | **B.Sc. Data Science** |
-| **Semester** | **Semester 5** |
-| **Subject** | **Data Engineering** |
-| **Team Members** | **Soham Morye** & **Grishma Patil** |
-
----
-
 ## 📌 Project Overview
 
 This project implements an end-to-end **Data Engineering and Business Intelligence pipeline** to extract, transform, clean, validate, and analyze large-scale AI conversational data using the **OpenAssistant Conversations Dataset (OASST1)**.
@@ -165,6 +153,7 @@ AI-Assistant-Conversation-Analytics/
 ├── 07_DOCUMENTATION/        # Project architecture and guides
 ├── .gitignore               # Excludes virtual environments and caches
 ├── app.py                   # Interactive Streamlit Web GUI Application
+├── LICENSE                  # MIT License
 └── README.md                # Comprehensive project documentation
 ```
 
@@ -249,7 +238,22 @@ LIMIT 5;
 
 ---
 
-## 👥 Authors & Credits
-- **Soham Morye**
-- **Grishma Patil**  
-*Department of Data Science — Semester 5 (Data Engineering)*
+## 🎓 Academic Project Information
+
+| Attribute | Details |
+| :--- | :--- |
+| **Course / Degree** | **B.Sc. Data Science** |
+| **Semester** | **Semester 5** |
+| **Subject** | **Data Engineering** |
+| **Team Members** | **Soham Morye** & **Grishma Patil** |
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+```text
+MIT License
+Copyright (c) 2026 Soham Morye, Grishma Patil
+```
