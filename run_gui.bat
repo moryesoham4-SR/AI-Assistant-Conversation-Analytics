@@ -3,7 +3,6 @@ title AI Assistant Conversation Analytics - GUI Launcher
 echo ============================================================
 echo AI ASSISTANT CONVERSATION ANALYTICS - GUI LAUNCHER
 echo Course: B.Sc. Data Science (Sem 5) - Data Engineering
-echo Team: Soham Morye ^& Grishma Patil
 echo ============================================================
 echo.
 

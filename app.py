@@ -216,10 +216,6 @@ with st.sidebar:
         <div style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: #38BDF8; font-weight: 700; margin-bottom: 6px;">Academic Project</div>
         <div style="font-size: 0.88rem; font-weight: 700; color: #F8FAFC;">Data Engineering</div>
         <div style="font-size: 0.8rem; color: #94A3B8;">Semester 5 &bull; B.Sc. Data Science</div>
-        <div style="height: 1px; background: rgba(255, 255, 255, 0.1); margin: 10px 0;"></div>
-        <div style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: #38BDF8; font-weight: 700; margin-bottom: 4px;">Project Team</div>
-        <div style="font-size: 0.85rem; color: #F1F5F9; font-weight: 600;">👨‍💻 Soham Morye</div>
-        <div style="font-size: 0.85rem; color: #F1F5F9; font-weight: 600;">👩‍💻 Grishma Patil</div>
     </div>
     """, unsafe_allow_html=True)
 
@@ -256,7 +252,7 @@ st.markdown("""
         </div>
     </div>
     <div style="display: flex; align-items: center; gap: 16px; margin-top: 10px; font-size: 0.88rem; color: #CBD5E1;">
-        <span>👥 <strong>Team:</strong> Soham Morye &amp; Grishma Patil</span>
+        <span>📊 <strong>Domain:</strong> Conversational AI Analytics</span>
         <span>&bull;</span>
         <span>🗄️ <strong>Engine:</strong> Python, SQLite, OASST1 Dataset</span>
     </div>
