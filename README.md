@@ -1,14 +1,26 @@
-AI Assistant Conversation Analytics — End-to-End Data Engineering Pipeline
+# AI Assistant Conversation Analytics — End-to-End Data Engineering Pipeline
+
+---
+
+### 🎓 Academic Project Information
+- **Course / Degree**: B.Sc. Data Science
+- **Semester**: Semester 5
+- **Subject**: Data Engineering
+- **Project Team / Collaborators**:
+  - **Soham Morye**
+  - **Grishma Patil**
+
+---
 
 📌 Project Overview
 
 This project develops an end-to-end Data Engineering and Business Intelligence pipeline for analyzing AI assistant conversations using the OpenAssistant Conversations Dataset (OASST1).
 
-The project transforms raw conversation data into a structured SQLite database, performs SQL analysis and Python-based Exploratory Data Analysis (EDA), and presents the results through an interactive Power BI dashboard.
+The project transforms raw conversation data into a structured SQLite database, performs SQL analysis and Python-based Exploratory Data Analysis (EDA), and presents the results through an interactive Streamlit GUI application and Power BI dashboard.
 
 One-Line Project Definition
 
-Raw AI Assistant Conversation Data → ETL → SQLite → SQL Analysis → Python EDA → Power BI → Business Insights & Recommendations
+Raw AI Assistant Conversation Data → ETL Pipeline → SQLite DB → SQL Analytics → Python EDA → Interactive Streamlit GUI → Business Insights
 
 🎯 1. Problem Statement
 
