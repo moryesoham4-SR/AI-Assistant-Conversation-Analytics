@@ -191,7 +191,7 @@ with st.sidebar:
     st.markdown("""
     <div style="text-align: center; padding: 10px 0 16px 0;">
         <div style="font-size: 2.6rem;">⚡</div>
-        <div style="font-size: 1.15rem; font-weight: 800; color: #FFFFFF; letter-spacing: -0.01em;">EventLedger Analytics</div>
+        <div style="font-size: 1.15rem; font-weight: 800; color: #FFFFFF; letter-spacing: -0.01em;">AI Conversation Pipeline</div>
         <div style="font-size: 0.78rem; color: #94A3B8;">Data Engineering Pipeline</div>
     </div>
     """, unsafe_allow_html=True)
